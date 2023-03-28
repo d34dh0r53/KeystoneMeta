@@ -1,0 +1,21 @@
+[submodule "keystone"]
+	path = keystone
+	url = https://opendev.org/openstack/keystone
+[submodule "keystone-tempest-plugin"]
+	path = keystone-tempest-plugin
+	url = https://opendev.org/openstack/keystone-tempest-plugin
+[submodule "keystoneauth"]
+	path = keystoneauth
+	url = https://opendev.org/openstack/keystoneauth
+[submodule "keystonemiddleware"]
+	path = keystonemiddleware
+	url = https://opendev.org/openstack/keystonemiddleware
+[submodule "python-keystoneclient"]
+	path = python-keystoneclient
+	url = https://opendev.org/openstack/python-keystoneclient
+[submodule "pycadf"]
+	path = pycadf
+	url = https://opendev.org/openstack/pycadf
+[submodule "ldappool"]
+	path = ldappool
+	url = https://opendev.org/openstack/ldappool
